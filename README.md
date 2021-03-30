@@ -21,7 +21,7 @@ Components:
  #TX and RX pcb board for without speed control module
  ![Alt text](pics/3.jpg)
  
- connections to tx nano (joystick)
+<< connections to tx nano (joystick)
  
  battery + > vin  
  battery - > gnd
@@ -61,7 +61,7 @@ connections to rx nano (crawler)
  IN1    >  3
  IN2    >  4
  IN3    >  5
- IN4    >  6th pis of arduino nano
+ IN4    >  6th pis of arduino nano >>
  
  _as shown below
  ![Alt text](pics/2.jpg)  
