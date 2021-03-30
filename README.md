@@ -1,9 +1,9 @@
 # NRF24-RC-Crawler
 
-#Description: Remote allows player to control motion of toy car. My modules are of 2 types, one with the speed control and another on without..
+###Description: Remote allows player to control motion of toy car. My modules are of 2 types, one with the speed control and another on without..
 for RC cars, traxxas typos, Crawles, jeeps, and all steering typo RC cars.
 
-Components:
+**Components:**
 
     arduino nano 2 for TX and RX
     nRF24L01 2 for TX and RX
@@ -18,10 +18,11 @@ Components:
     resisotors for leds if.
     
  
- #TX and RX pcb board for without speed control module
+ ###TX and RX pcb board for without speed control module
  ![Alt text](pics/3.jpg)
  
-// connections to tx nano (joystick)
+```
+ connections to tx nano (joystick)
  
  battery + > vin  
  battery - > gnd
@@ -43,6 +44,7 @@ Components:
  
 
 
+
 connections to rx nano (crawler)
  
  battery + > vin  
@@ -61,17 +63,19 @@ connections to rx nano (crawler)
  IN1    >  3
  IN2    >  4
  IN3    >  5
- IN4    >  6th pis of arduino nano //
+ IN4    >  6th pis of arduino nano 
  
+```
  _as shown below
  ![Alt text](pics/2.jpg)  
  
  demo
  ![Alt text](pics/6.jpg)  
  
- #TX and RX pcb board for with speed control module
+ ###TX and RX pcb board for with speed control module
  ![Alt text](pics/4.jpg)  
- 
+
+```
   connections to tx nano (joystick)
  
  battery + > vin  
@@ -115,6 +119,7 @@ connections to rx nano (crawler)
  IN3    >  7
  IN4    >  8
  ENB    >  6th pis of arduino nano
+```
  
  
  _as shown bwlow
@@ -123,5 +128,4 @@ connections to rx nano (crawler)
  demo
  ![Alt text](pics/5.jpg)  
   
-    
     
