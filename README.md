@@ -10,4 +10,14 @@ Components:
     joystick to control
     L298N (DualH-bridge //2A) for speedcontrol
     mx1508 (DualH-bridge//1.5A) without speedcontrol
+    pcb boards 
+    some batteries
+    leds for indicator if required.
+    2 10mf capacitors for NRFmodules each
+    resisotors for leds if.
+    
+    
+ ![circuit board for witchout speed control module](pics/3.jpg)   
+  
+    
     
