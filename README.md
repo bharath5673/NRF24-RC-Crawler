@@ -16,8 +16,27 @@ Components:
     2 10mf capacitors for NRFmodules each
     resisotors for leds if.
     
-    
- ![circuit board for witchout speed control module](pics/3.jpg)   
+ 
+ #TX and RX pcb board for without speed control module
+ ![Alt text](pics/3.jpg)
+ 
+ 
+ connections
+ 
+ 
+ ![Alt text](pics/2.jpg)  
+ 
+ demo
+ ![Alt text](pics/6.jpg)  
+ 
+ #TX and RX pcb board for with speed control module
+ ![Alt text](pics/4.jpg)  
+ 
+ connections
+ ![Alt text](pics/1.jpg)  
+ 
+ demo
+ ![Alt text](pics/5.jpg)  
   
     
     
