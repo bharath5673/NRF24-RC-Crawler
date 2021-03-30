@@ -130,11 +130,11 @@ connections to rx nano (crawler)
 ```
  
  
- ** shown bwlow **
+ **as shown bwlow**
  
  ![Alt text](pics/1.jpg)  
  
- ** demo **
+ **demo**
  
  ![Alt text](pics/5.jpg)  
   
